@@ -22,7 +22,10 @@ Game over if player collide monster virus
 
 ![image](https://user-images.githubusercontent.com/73264521/172192039-34adcdc9-3116-4f01-b3ff-0631c60cd44c.png)
 
-</br>
+
 <br>![image](https://user-images.githubusercontent.com/73264521/174494909-692eced9-adc2-4b61-8220-d39d0e499d16.png)
+</br>
+<br>
+![image](https://user-images.githubusercontent.com/73264521/174494974-7f381438-cab9-486e-b951-07bf76b5151e.png)
 </br>
 I am developing some more features
